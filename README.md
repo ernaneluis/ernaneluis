@@ -1,17 +1,17 @@
-## 👋 I’m a Javascript Full Stack Software Engineer with 7+ years in the crypto Web3 space 🌐🚀
+## 👋 Full Stack Engineer with 7+ years in the crypto Web3 space 🌐🚀
 
 
-I’m all about using JavaScript (React.js/Next.js, Vue.js/Nuxt.js) and the Ethereum protocol to help build a better, decentralized society. Over the years, I’ve tackled a range of projects, from decentralized governance, RWA issuance to data analytics, bringing my full-stack skills to the table 🎨💻.
+I’m all about using JavaScript  (React.js/Next.js, Vue.js/Nuxt.js, Node.js/Bun.js, Typescript) and the Ethereum protocol to help build a better, decentralized society. Over the years, I’ve tackled a range of projects, from decentralized governance, RWA issuance to data analytics, bringing my full-stack skills to the table 🎨💻.
 
 🌟 Recent Highlights:
 
-⚡ Sucesffuly publisehd 2 products for the [Mˆ0 Protocol](https://m0.org)
+⚡ Sucesffuly publisehd 2 products for the [Mˆ0 Protocol](https://m0.org):
 - As [most contributor](https://github.com/m0-foundation/ttg-frontend/graphs/contributors) developed a client-only open source descentralized [Governance](https://governance.m0.org).
 - Leading architecture and development of front-end of an Asset Analytics [Dashboard](https://dashboard.m0.org).
 
 ⚡ Contributing to a tokenized securities issuance platform with [Tokeny](https://tokeny.com), securing over $28B across Ethereum and Polygon.
 
-⚡ Early Gitcoin [contributor](https://github.com/gitcoinco/web/commits?author=ernaneluis)
+⚡ Early Gitcoin [contributor](https://github.com/gitcoinco/web/commits?author=ernaneluis).
 
 I’m always on the lookout for new challenges and collaborations with innovative teams around the world. Let’s build the future of blockchain together! 🌍💡
 
@@ -24,7 +24,7 @@ I’m always on the lookout for new challenges and collaborations with innovativ
   </div>
 
   <div align="right">
-    <img align="right" style="width: 650px" src="https://github-profile-trophy.vercel.app/?username=ernaneluis&column=7" />
+    <img align="right" style="width: 450px" src="https://github-profile-trophy.vercel.app/?username=ernaneluis&column=7" />
   </div>
 </div>
 
