@@ -1,13 +1,13 @@
 ## 👋 Full Stack Engineer with 7+ years in the crypto Web3 space 🌐🚀
 
 
-I’m all about using JavaScript  (React.js/Next.js, Vue.js/Nuxt.js, Node.js/Bun.js, Typescript) and the Ethereum protocol to help build a better, decentralized society. Over the years, I’ve tackled a range of projects, from decentralized governance, RWA issuance to data analytics, bringing my full-stack skills to the table 🎨💻.
+I’m all about using JavaScript  (React.js/Next.js, Vue.js/Nuxt.js, Node.js/Bun.js, TypeScript) and the Ethereum protocol to help build a better, decentralized society. Over the years, I’ve tackled a range of projects, from decentralized governance, Real World Asset (RWA) issuance to data analytics, bringing my full-stack skills to the table 🎨💻.
 
 🌟 Recent Highlights:
 
 ⚡ Successfully published  2 products for the [Mˆ0 Protocol](https://m0.org):
-- As [most contributor](https://github.com/m0-foundation/ttg-frontend/graphs/contributors) developed a client-only open source descentralized [Governance](https://governance.m0.org).
-- Leading architecture and development of front-end of an Asset Analytics [Dashboard](https://dashboard.m0.org).
+- As the [primary contributor](https://github.com/m0-foundation/ttg-frontend/graphs/contributors), developed a client-only open source decentralized [Governance](https://governance.m0.org).
+- Leading the front-end and back-end architecture and development for an Assets Analytics [Dashboard](https://dashboard.m0.org).
 
 ⚡ Contributing to a tokenized securities issuance platform with [Tokeny](https://tokeny.com), securing over $28B across Ethereum and Polygon.
 
