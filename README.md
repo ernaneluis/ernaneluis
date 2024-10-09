@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 I’m a Javascript Full Stack Software Engineer with 7+ years in the crypto Web3 space 🌐🚀
 
-<!--
-**ernaneluis/ernaneluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m all about using JavaScript (React.js/Next.js, Vue.js/Nuxt.js) and the Ethereum protocol to help build a better, decentralized society. Over the years, I’ve tackled a range of projects, from decentralized governance, RWA issuance to data analytics, bringing my full-stack skills to the table 🎨💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Recent Highlights:
+
+⚡ Sucesffuly publisehd 2 products for the [Mˆ0 Protocol](https://m0.org)
+- As [most contributor](https://github.com/m0-foundation/ttg-frontend/graphs/contributors) developed a client-only open source descentralized [Governance](https://governance.m0.org).
+- Leading architecture and development of front-end of an Asset Analytics [Dashboard](https://dashboard.m0.org).
+
+⚡ Contributing to a tokenized securities issuance platform with [Tokeny](https://tokeny.com), securing over $28B across Ethereum and Polygon.
+
+⚡ Early Gitcoin [contributor](https://github.com/gitcoinco/web/commits?author=ernaneluis)
+
+I’m always on the lookout for new challenges and collaborations with innovative teams around the world. Let’s build the future of blockchain together! 🌍💡
+
+
+## 📊 Github Stats
+
+<div align="center">  
+  <div align="left">
+    <img style="max-width: 450px" align="left" src="https://github-readme-stats.vercel.app/api?username=ernaneluis&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=false&count_private=false&hide_rank=true" alt="Ernane Luis github stats"/>
+  </div>
+
+  <div align="right">
+    <img align="right" style="width: 650px" src="https://github-profile-trophy.vercel.app/?username=ernaneluis&column=7" />
+  </div>
+</div>
+
