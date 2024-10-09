@@ -5,7 +5,7 @@ I’m all about using JavaScript  (React.js/Next.js, Vue.js/Nuxt.js, Node.js/Bun
 
 🌟 Recent Highlights:
 
-⚡ Sucesffuly publisehd 2 products for the [Mˆ0 Protocol](https://m0.org):
+⚡ Successfully published  2 products for the [Mˆ0 Protocol](https://m0.org):
 - As [most contributor](https://github.com/m0-foundation/ttg-frontend/graphs/contributors) developed a client-only open source descentralized [Governance](https://governance.m0.org).
 - Leading architecture and development of front-end of an Asset Analytics [Dashboard](https://dashboard.m0.org).
 
