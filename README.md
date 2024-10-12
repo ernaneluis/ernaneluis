@@ -9,7 +9,7 @@ I’m all about using JavaScript  (React.js/Next.js, Vue.js/Nuxt.js, Node.js/Bun
 - As the [primary contributor](https://github.com/m0-foundation/ttg-frontend/graphs/contributors), developed a client-only open source decentralized [Governance](https://governance.m0.org).
 - Leading the front-end and back-end architecture and development for an Assets Analytics [Dashboard](https://dashboard.m0.org).
 
-⚡ Contributing to a tokenized securities issuance platform with [Tokeny](https://tokeny.com), securing over $28B across Ethereum and Polygon.
+⚡ Contributed to a tokenized securities issuance platform at [Tokeny](https://tokeny.com), securing over $28B across Ethereum and Polygon.
 
 ⚡ Early Gitcoin [contributor](https://github.com/gitcoinco/web/commits?author=ernaneluis).
 
